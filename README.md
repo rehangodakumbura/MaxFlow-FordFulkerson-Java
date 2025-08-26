@@ -173,7 +173,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Rehan Dewkalana Godakumbura**
+**[Rehan Godakumbura]**
+- GitHub: [@rehangodakumbura](https://github.com/rehangodakumbura)
+- Email: rehangod2003@gmail.com
 
 ## 🙏 Acknowledgments
 
